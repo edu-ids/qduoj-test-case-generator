@@ -10,5 +10,5 @@
 1. テストケースを作成
   * Input: in/${number}.in
   * Output: out/${number}.out
-2. Run `gen.py`
-3. Upload output.zip
+2. `gen.py`を実行
+3. output.zipをQDUOJにアップする
